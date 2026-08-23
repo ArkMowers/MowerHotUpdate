@@ -2,7 +2,7 @@
 
 Mower 的热更新仓库。
 
-热更新是超小滚动件（导航步骤 + 活动关卡），随活动/招募滚动。仓库 `main` 维护**构建期输入**，不做版本发布：
+热更新是超小滚动件（导航步骤 + 活动关卡），随活动更新。仓库 `main` 维护**构建期输入**，不做版本发布：
 
 - `stage_data.json`：当前活动关（`stageType==ACTIVITY` 子集，含 `endTs:{startTs,endTs}` 窗口），由 [MowerResource](https://github.com/ArkMowers/MowerResource) 资源包管线在每次游戏数据变化后自动推送（SSH deploy key，内容无变化跳过）。
 - `key_mapping.json`：物品名映射，供 Release 说明解析掉落中文名（**只进仓库，不进发布 zip**）。
