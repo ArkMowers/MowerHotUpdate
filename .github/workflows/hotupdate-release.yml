@@ -1,0 +1,29 @@
+# MowerHotUpdate 热更包发布（#198 执行票）。
+# 目标仓库：ArkMowers/MowerHotUpdate（公开）。
+# 触发：推 vYYYY.MM.DD-<hex> tag（#199 本地 nav 脚本 / 手动推）。
+# 行为：打包 tag 上的 stage_data.json + nav_steps.json 成 hot_update.zip 发 GitHub
+#       Release，notes 列关卡+掉落（掉落中文名靠仓库根 key_mapping.json，zip 不含它）；
+#       zip 内含 version.json（{"version": tag}）供手动通道记版本。幂等：重跑先删旧 Release。
+
+name: 打包热更 Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 打包并发布热更包
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python .github/scripts/make_hotupdate_release.py
