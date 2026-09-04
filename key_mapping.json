@@ -657,6 +657,34 @@
         "NORMAL",
         40001
     ],
+    "LINKAGE_TKT_GACHA_10_7701": [
+        "LINKAGE_TKT_GACHA_10_7701",
+        "LINKAGE_TKT_GACHA_10_7701",
+        "一逢满月十连寻访凭证",
+        "NORMAL",
+        40003
+    ],
+    "一逢满月十连寻访凭证": [
+        "LINKAGE_TKT_GACHA_10_7701",
+        "LINKAGE_TKT_GACHA_10_7701",
+        "一逢满月十连寻访凭证",
+        "NORMAL",
+        40003
+    ],
+    "LINKAGE_TKT_GACHA_7701": [
+        "LINKAGE_TKT_GACHA_7701",
+        "LINKAGE_TKT_GACHA_7701",
+        "一逢满月寻访凭证",
+        "NORMAL",
+        40003
+    ],
+    "一逢满月寻访凭证": [
+        "LINKAGE_TKT_GACHA_7701",
+        "LINKAGE_TKT_GACHA_7701",
+        "一逢满月寻访凭证",
+        "NORMAL",
+        40003
+    ],
     "7003": [
         "7003",
         "TKT_GACHA",
@@ -4114,6 +4142,20 @@
         "罗德岛隐秘队的信物",
         "MATERIAL",
         1100010
+    ],
+    "p_char_4220_kormr": [
+        "p_char_4220_kormr",
+        "p_char_4220_kormr",
+        "虎狼丸的信物",
+        "MATERIAL",
+        1100011
+    ],
+    "虎狼丸的信物": [
+        "p_char_4220_kormr",
+        "p_char_4220_kormr",
+        "虎狼丸的信物",
+        "MATERIAL",
+        1100011
     ],
     "p_char_502_nblade": [
         "p_char_502_nblade",
@@ -7965,6 +8007,34 @@
         "MATERIAL",
         700193
     ],
+    "p_char_4218_aigis": [
+        "p_char_4218_aigis",
+        "p_char_4218_aigis",
+        "埃癸斯的信物",
+        "MATERIAL",
+        700194
+    ],
+    "埃癸斯的信物": [
+        "p_char_4218_aigis",
+        "p_char_4218_aigis",
+        "埃癸斯的信物",
+        "MATERIAL",
+        700194
+    ],
+    "p_char_4219_yukari": [
+        "p_char_4219_yukari",
+        "p_char_4219_yukari",
+        "岳羽由加莉的信物",
+        "MATERIAL",
+        700195
+    ],
+    "岳羽由加莉的信物": [
+        "p_char_4219_yukari",
+        "p_char_4219_yukari",
+        "岳羽由加莉的信物",
+        "MATERIAL",
+        700195
+    ],
     "p_char_103_angel": [
         "p_char_103_angel",
         "p_char_103_angel",
@@ -9854,6 +9924,20 @@
         "珊比的信物",
         "MATERIAL",
         600135
+    ],
+    "p_char_4217_makoto": [
+        "p_char_4217_makoto",
+        "p_char_4217_makoto",
+        "结城理的信物",
+        "MATERIAL",
+        600136
+    ],
+    "结城理的信物": [
+        "p_char_4217_makoto",
+        "p_char_4217_makoto",
+        "结城理的信物",
+        "MATERIAL",
+        600136
     ],
     "class_p_char_123_fang": [
         "class_p_char_123_fang",
@@ -12402,89 +12486,5 @@
         "高级材料提货券",
         "CONSUME",
         30201
-    ],
-    "main16_spitem_1": [
-        "main16_spitem_1",
-        "main16_fadeoriginium",
-        "暗淡的源石",
-        "NORMAL",
-        10601
-    ],
-    "暗淡的源石": [
-        "main16_spitem_1",
-        "main16_fadeoriginium",
-        "暗淡的源石",
-        "NORMAL",
-        10601
-    ],
-    "main16_spitem_2": [
-        "main16_spitem_2",
-        "main16_minelamp",
-        "无主的矿灯",
-        "NORMAL",
-        10602
-    ],
-    "无主的矿灯": [
-        "main16_spitem_2",
-        "main16_minelamp",
-        "无主的矿灯",
-        "NORMAL",
-        10602
-    ],
-    "main16_spitem_3": [
-        "main16_spitem_3",
-        "main16_reunionflag",
-        "涂改的旗帜",
-        "NORMAL",
-        10603
-    ],
-    "涂改的旗帜": [
-        "main16_spitem_3",
-        "main16_reunionflag",
-        "涂改的旗帜",
-        "NORMAL",
-        10603
-    ],
-    "main16_spitem_4": [
-        "main16_spitem_4",
-        "main16_dud",
-        "未爆的哑弹",
-        "NORMAL",
-        10604
-    ],
-    "未爆的哑弹": [
-        "main16_spitem_4",
-        "main16_dud",
-        "未爆的哑弹",
-        "NORMAL",
-        10604
-    ],
-    "main17_spitem_1": [
-        "main17_spitem_1",
-        "main17_spitem",
-        "“AMa-10”",
-        "NORMAL",
-        10605
-    ],
-    "“AMa-10”": [
-        "main17_spitem_1",
-        "main17_spitem",
-        "“AMa-10”",
-        "NORMAL",
-        10605
-    ],
-    "ark_odc_act53side_spitem_1": [
-        "ark_odc_act53side_spitem_1",
-        "ark_odc_act53side_spitem",
-        "温泉度假村体验券",
-        "NORMAL",
-        10606
-    ],
-    "温泉度假村体验券": [
-        "ark_odc_act53side_spitem_1",
-        "ark_odc_act53side_spitem",
-        "温泉度假村体验券",
-        "NORMAL",
-        10606
     ]
 }
