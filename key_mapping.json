@@ -12486,5 +12486,89 @@
         "高级材料提货券",
         "CONSUME",
         30201
+    ],
+    "main16_spitem_1": [
+        "main16_spitem_1",
+        "main16_fadeoriginium",
+        "暗淡的源石",
+        "MEMENTO",
+        8000801
+    ],
+    "暗淡的源石": [
+        "main16_spitem_1",
+        "main16_fadeoriginium",
+        "暗淡的源石",
+        "MEMENTO",
+        8000801
+    ],
+    "main16_spitem_2": [
+        "main16_spitem_2",
+        "main16_minelamp",
+        "无主的矿灯",
+        "MEMENTO",
+        8000802
+    ],
+    "无主的矿灯": [
+        "main16_spitem_2",
+        "main16_minelamp",
+        "无主的矿灯",
+        "MEMENTO",
+        8000802
+    ],
+    "main16_spitem_3": [
+        "main16_spitem_3",
+        "main16_reunionflag",
+        "涂改的旗帜",
+        "MEMENTO",
+        8000803
+    ],
+    "涂改的旗帜": [
+        "main16_spitem_3",
+        "main16_reunionflag",
+        "涂改的旗帜",
+        "MEMENTO",
+        8000803
+    ],
+    "main16_spitem_4": [
+        "main16_spitem_4",
+        "main16_dud",
+        "未爆的哑弹",
+        "MEMENTO",
+        8000804
+    ],
+    "未爆的哑弹": [
+        "main16_spitem_4",
+        "main16_dud",
+        "未爆的哑弹",
+        "MEMENTO",
+        8000804
+    ],
+    "main17_spitem_1": [
+        "main17_spitem_1",
+        "main17_spitem",
+        "“AMa-10”",
+        "MEMENTO",
+        8000805
+    ],
+    "“AMa-10”": [
+        "main17_spitem_1",
+        "main17_spitem",
+        "“AMa-10”",
+        "MEMENTO",
+        8000805
+    ],
+    "ark_odc_act53side_spitem_1": [
+        "ark_odc_act53side_spitem_1",
+        "ark_odc_act53side_spitem",
+        "温泉度假村体验券",
+        "MEMENTO",
+        8000806
+    ],
+    "温泉度假村体验券": [
+        "ark_odc_act53side_spitem_1",
+        "ark_odc_act53side_spitem",
+        "温泉度假村体验券",
+        "MEMENTO",
+        8000806
     ]
 }
