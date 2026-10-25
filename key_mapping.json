@@ -1861,6 +1861,20 @@
         "CONSUME",
         60124
     ],
+    "randomMaterial_7d5": [
+        "randomMaterial_7d5",
+        "randomMaterial_4",
+        "2026感谢庆典物资补给",
+        "CONSUME",
+        60125
+    ],
+    "2026感谢庆典物资补给": [
+        "randomMaterial_7d5",
+        "randomMaterial_4",
+        "2026感谢庆典物资补给",
+        "CONSUME",
+        60125
+    ],
     "2001": [
         "2001",
         "sprite_exp_card_t1",
